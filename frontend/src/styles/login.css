@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    justify-content: center; /* center horizontally */
+    align-items: center;     /* center vertically */
+    height: 100vh;           /* full viewport height */
+  }
+  
+  main form {
+    text-align: center;
+  }
+
+  main form label {
+    display: block;
+  }
