@@ -5,10 +5,10 @@ main {
     height: 100vh;           /* full viewport height */
   }
   
-  main form {
+  #login form {
     text-align: center;
   }
 
-  main form label {
+  #login form label {
     display: block;
   }
